@@ -1,0 +1,17 @@
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\bin\Debug\CrudFinal.exe.config
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\bin\Debug\CrudFinal.exe
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\bin\Debug\CrudFinal.pdb
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\bin\Debug\EntityFramework.dll
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\bin\Debug\EntityFramework.xml
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\obj\Debug\CrudFinal.csproj.AssemblyReference.cache
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\obj\Debug\CrudFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\obj\Debug\CrudFinal.Form1.resources
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\obj\Debug\CrudFinal.Properties.Resources.resources
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\obj\Debug\CrudFinal.csproj.GenerateResource.cache
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\obj\Debug\CrudFinal.csproj.CoreCompileInputs.cache
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\obj\Debug\CrudFinal.csproj.CopyComplete
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\obj\Debug\CrudFinal.exe
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\obj\Debug\CrudFinal.pdb
+C:\Users\JimmyP\source\repos\CrudFinal\CrudFinal\obj\Debug\CrudFinal.Presentaciones.FrmTabla.resources
